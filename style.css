@@ -1,0 +1,79 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 500px;
+	margin: 40px auto;
+	padding: 20px;
+	background-color: #f9f9f9;
+	border: 1px solid #ddd;
+
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	height: 150px;
+
+}
+.se{
+	    margin-top: -50px;
+}
+header h1 {
+	margin: 0;
+}
+.img{
+	background-color: #ddd;
+	border: gold solid;
+	border-radius: 100%;
+	width: 100px;
+	height: 75px;
+}
+img{
+	border-radius: 100%;
+	width: 100px;
+	height: 75px;
+}
+.summary {
+	background-color: #f7f7f7;
+	padding: 10px;
+}
+
+.experience ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.experience li {
+	margin-bottom: 20px;
+}
+
+.experience h3 {
+	margin-top: 0;
+}
+
+.education ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.skills ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	clear: both;
+}
